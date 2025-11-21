@@ -1,0 +1,15 @@
+{
+  "originHash" : "07bebde1e8b2387a3448366ad3f865a2e2aa3542ad79c5e7160338b56e7e9b7c",
+  "pins" : [
+    {
+      "identity" : "cdmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AbdallahEdres/CDManager.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "352daea80bff7cd3f4b1cfe5d1d58a36afb778c4"
+      }
+    }
+  ],
+  "version" : 3
+}
